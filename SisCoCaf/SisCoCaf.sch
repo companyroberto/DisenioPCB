@@ -600,4 +600,26 @@ Text Notes 1150 4750 0    118  Italic 24
 Caracteristicas técnicas:
 Text Notes 1200 6500 0    79   ~ 0
 PCB:\n- De 1 capa.\n- Se utilizará técnica de planchado.\n- Material: Fibra de vidrio.\n- Color: Verde.\n\nEntorno:\n- Temperatura de trabajo: -25ºC a +85ºC\n\nElectrónica:\n- Corriente: 500 miliamperios.\n- Voltaje: 12Vts. DC
+$Comp
+L Device:Battery_Cell BT1
+U 1 1 5BCA9018
+P 2400 3850
+F 0 "BT1" H 2518 3946 50  0000 L CNN
+F 1 "Battery_Cell" H 2518 3855 50  0000 L CNN
+F 2 "Battery:BatteryHolder_Keystone_1058_1x2032" V 2400 3910 50  0001 C CNN
+F 3 "~" V 2400 3910 50  0001 C CNN
+	1    2400 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Jumper_NO_Small JP1
+U 1 1 5BCA9157
+P 1750 3850
+F 0 "JP1" H 1750 4035 50  0000 C CNN
+F 1 "Jumper_NO_Small" H 1750 3944 50  0000 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical" H 1750 3850 50  0001 C CNN
+F 3 "~" H 1750 3850 50  0001 C CNN
+	1    1750 3850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

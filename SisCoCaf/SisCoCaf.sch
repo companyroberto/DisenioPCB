@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 1
 Title "SisCoCaf"
 Date "2018-09-08"
-Rev ""
+Rev "1.03"
 Comp "Roberto Compañy"
 Comment1 ""
 Comment2 ""
@@ -64,7 +64,7 @@ U 1 1 5B91F800
 P 2100 2100
 F 0 "R1" H 2170 2146 50  0000 L CNN
 F 1 "1k" H 2170 2055 50  0000 L CNN
-F 2 "" V 2030 2100 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 2030 2100 50  0001 C CNN
 F 3 "~" H 2100 2100 50  0001 C CNN
 	1    2100 2100
 	0    -1   -1   0   
@@ -75,7 +75,7 @@ U 1 1 5B921B88
 P 2750 2100
 F 0 "R2" H 2820 2146 50  0000 L CNN
 F 1 "1k" H 2820 2055 50  0000 L CNN
-F 2 "" V 2680 2100 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 2680 2100 50  0001 C CNN
 F 3 "~" H 2750 2100 50  0001 C CNN
 	1    2750 2100
 	0    -1   -1   0   
@@ -99,7 +99,7 @@ U 1 1 5B923BA4
 P 10050 1300
 F 0 "J2" H 10100 1300 50  0000 L CNN
 F 1 "Conn_01x02_Female" H 10077 1185 50  0000 L CNN
-F 2 "" H 10050 1300 50  0001 C CNN
+F 2 "Connector_PinSocket_1.27mm:PinSocket_1x02_P1.27mm_Vertical" H 10050 1300 50  0001 C CNN
 F 3 "~" H 10050 1300 50  0001 C CNN
 	1    10050 1300
 	1    0    0    -1  
@@ -143,7 +143,7 @@ U 1 1 5B927BA6
 P 7150 4950
 F 0 "R3" H 7220 4996 50  0000 L CNN
 F 1 "5k6" H 7220 4905 50  0000 L CNN
-F 2 "" V 7080 4950 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 7080 4950 50  0001 C CNN
 F 3 "~" H 7150 4950 50  0001 C CNN
 	1    7150 4950
 	-1   0    0    -1  
@@ -165,7 +165,7 @@ U 1 1 5B92C715
 P 9550 1600
 F 0 "R7" V 9450 1600 50  0000 C CNN
 F 1 "220" V 9650 1600 50  0000 C CNN
-F 2 "" V 9480 1600 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 9480 1600 50  0001 C CNN
 F 3 "~" H 9550 1600 50  0001 C CNN
 	1    9550 1600
 	0    1    1    0   
@@ -176,7 +176,7 @@ U 1 1 5B92E839
 P 9850 1750
 F 0 "D1" H 9550 1750 50  0000 C CNN
 F 1 "LED" H 9550 1650 50  0000 C CNN
-F 2 "" H 9850 1750 50  0001 C CNN
+F 2 "LED_THT:LED_D3.0mm" H 9850 1750 50  0001 C CNN
 F 3 "~" H 9850 1750 50  0001 C CNN
 	1    9850 1750
 	-1   0    0    -1  
@@ -187,7 +187,7 @@ U 1 1 5B9317BD
 P 9950 2950
 F 0 "BZ1" H 10103 2979 50  0000 L CNN
 F 1 "Buzzer" H 10103 2888 50  0000 L CNN
-F 2 "" V 9925 3050 50  0001 C CNN
+F 2 "Buzzer_Beeper:Buzzer_12x9.5RM7.6" V 9925 3050 50  0001 C CNN
 F 3 "~" V 9925 3050 50  0001 C CNN
 	1    9950 2950
 	1    0    0    -1  
@@ -209,7 +209,7 @@ U 1 1 5B936BA2
 P 9150 3250
 F 0 "R4" V 8943 3250 50  0000 C CNN
 F 1 "220" V 9034 3250 50  0000 C CNN
-F 2 "" V 9080 3250 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 9080 3250 50  0001 C CNN
 F 3 "~" H 9150 3250 50  0001 C CNN
 	1    9150 3250
 	0    1    1    0   
@@ -255,7 +255,7 @@ U 1 1 5B94AEFD
 P 10050 4700
 F 0 "J5" H 10023 4723 50  0000 R CNN
 F 1 "Conn_01x01_Male" H 10023 4632 50  0000 R CNN
-F 2 "" H 10050 4700 50  0001 C CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical" H 10050 4700 50  0001 C CNN
 F 3 "~" H 10050 4700 50  0001 C CNN
 	1    10050 4700
 	-1   0    0    -1  
@@ -266,7 +266,7 @@ U 1 1 5B94C61A
 P 9400 4900
 F 0 "R6" V 9193 4900 50  0000 C CNN
 F 1 "220" V 9284 4900 50  0000 C CNN
-F 2 "" V 9330 4900 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 9330 4900 50  0001 C CNN
 F 3 "~" H 9400 4900 50  0001 C CNN
 	1    9400 4900
 	0    1    1    0   
@@ -299,7 +299,7 @@ U 1 1 5B95300E
 P 10050 2250
 F 0 "J3" H 10023 2273 50  0000 R CNN
 F 1 "Conn_01x03_Male" H 10023 2182 50  0000 R CNN
-F 2 "" H 10050 2250 50  0001 C CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical" H 10050 2250 50  0001 C CNN
 F 3 "~" H 10050 2250 50  0001 C CNN
 	1    10050 2250
 	-1   0    0    -1  
@@ -332,7 +332,7 @@ U 1 1 5B95DA8D
 P 10050 900
 F 0 "J1" H 10100 900 50  0000 L CNN
 F 1 "Conn_01x02_Female" H 10077 785 50  0000 L CNN
-F 2 "" H 10050 900 50  0001 C CNN
+F 2 "Connector_PinSocket_1.27mm:PinSocket_1x02_P1.27mm_Vertical" H 10050 900 50  0001 C CNN
 F 3 "~" H 10050 900 50  0001 C CNN
 	1    10050 900 
 	1    0    0    -1  
@@ -343,7 +343,7 @@ U 1 1 5B961E5F
 P 9700 900
 F 0 "R8" V 9600 900 50  0000 C CNN
 F 1 "220" V 9800 900 50  0000 C CNN
-F 2 "" V 9630 900 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 9630 900 50  0001 C CNN
 F 3 "~" H 9700 900 50  0001 C CNN
 	1    9700 900 
 	0    1    1    0   
@@ -354,7 +354,7 @@ U 1 1 5B962E3B
 P 9350 1000
 F 0 "R5" V 9200 1000 50  0000 C CNN
 F 1 "220" V 9450 1000 50  0000 C CNN
-F 2 "" V 9280 1000 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" V 9280 1000 50  0001 C CNN
 F 3 "~" H 9350 1000 50  0001 C CNN
 	1    9350 1000
 	0    1    1    0   
@@ -367,7 +367,7 @@ U 1 1 5B91A1A1
 P 6150 2350
 F 0 "IC1" H 6150 3837 60  0000 C CNN
 F 1 "LPC111X_102" H 6150 3731 60  0000 C CNN
-F 2 "" H 6150 2350 50  0001 C CNN
+F 2 "Package_DIP:DIP-28_W15.24mm_Socket" H 6150 2350 50  0001 C CNN
 F 3 "" H 6150 2350 50  0001 C CNN
 	1    6150 2350
 	1    0    0    1   
@@ -537,7 +537,7 @@ U 1 1 5B96C0E0
 P 10050 4000
 F 0 "J4" H 10023 4023 50  0000 R CNN
 F 1 "Conn_01x03_Male" H 10023 3932 50  0000 R CNN
-F 2 "" H 10050 4000 50  0001 C CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical" H 10050 4000 50  0001 C CNN
 F 3 "~" H 10050 4000 50  0001 C CNN
 	1    10050 4000
 	-1   0    0    -1  
@@ -599,5 +599,5 @@ Fuente de Alimentación
 Text Notes 1150 4750 0    118  Italic 24
 Caracteristicas técnicas:
 Text Notes 1200 6500 0    79   ~ 0
-PCB:\n- De 1 capa.\n- Se utilizará técnica de planchado.\n- Material: Fibra de vidrio.\n- Color: Verde.\n\nEntorno:\n- Temperatura de trabajo: -25ºC a +85ºC\n\nElectrónica:\nCorriente: 500 miliamperios.\nVoltaje: 12Vts. DC\n\n
+PCB:\n- De 1 capa.\n- Se utilizará técnica de planchado.\n- Material: Fibra de vidrio.\n- Color: Verde.\n\nEntorno:\n- Temperatura de trabajo: -25ºC a +85ºC\n\nElectrónica:\n- Corriente: 500 miliamperios.\n- Voltaje: 12Vts. DC
 $EndSCHEMATC

@@ -231,7 +231,7 @@ U 1 1 5B93F2EB
 P 9550 5000
 F 0 "Q1" H 9741 5046 50  0000 L CNN
 F 1 "BC547" H 9741 4955 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 9750 4925 50  0001 L CIN
+F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 9750 4925 50  0001 L CIN
 F 3 "http://www.fairchildsemi.com/ds/BC/BC547.pdf" H 9550 5000 50  0001 L CNN
 	1    9550 5000
 	1    0    0    -1  
@@ -275,7 +275,7 @@ U 1 1 5B94C627
 P 9550 5850
 F 0 "Q2" H 9741 5896 50  0000 L CNN
 F 1 "BC547" H 9741 5805 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 9750 5775 50  0001 L CIN
+F 2 "Package_TO_SOT_THT:TO-92_HandSolder" H 9750 5775 50  0001 L CIN
 F 3 "http://www.fairchildsemi.com/ds/BC/BC547.pdf" H 9550 5850 50  0001 L CNN
 	1    9550 5850
 	1    0    0    -1  
@@ -792,7 +792,7 @@ U 1 1 5BE97C53
 P 4700 6900
 F 0 "MH1" H 4800 6946 50  0000 L CNN
 F 1 "MountingHole" H 4800 6855 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4mm" H 4700 6900 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 4700 6900 50  0001 C CNN
 F 3 "~" H 4700 6900 50  0001 C CNN
 	1    4700 6900
 	1    0    0    -1  
@@ -803,7 +803,7 @@ U 1 1 5BE97CE3
 P 5700 6900
 F 0 "MH3" H 5800 6946 50  0000 L CNN
 F 1 "MountingHole" H 5800 6855 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4mm" H 5700 6900 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 5700 6900 50  0001 C CNN
 F 3 "~" H 5700 6900 50  0001 C CNN
 	1    5700 6900
 	1    0    0    -1  
@@ -814,7 +814,7 @@ U 1 1 5BE97D35
 P 4700 7350
 F 0 "MH2" H 4800 7396 50  0000 L CNN
 F 1 "MountingHole" H 4800 7305 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4mm" H 4700 7350 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 4700 7350 50  0001 C CNN
 F 3 "~" H 4700 7350 50  0001 C CNN
 	1    4700 7350
 	1    0    0    -1  
@@ -825,7 +825,7 @@ U 1 1 5BE97D83
 P 5700 7350
 F 0 "MH4" H 5800 7396 50  0000 L CNN
 F 1 "MountingHole" H 5800 7305 50  0000 L CNN
-F 2 "MountingHole:MountingHole_4mm" H 5700 7350 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 5700 7350 50  0001 C CNN
 F 3 "~" H 5700 7350 50  0001 C CNN
 	1    5700 7350
 	1    0    0    -1  

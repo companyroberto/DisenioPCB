@@ -353,7 +353,7 @@ P 5600 2450
 F 0 "IC1" H 5600 3937 60  0000 C CNN
 F 1 "LPC111X_102" H 5600 3831 60  0000 C CNN
 F 2 "Package_DIP:DIP-28_W15.24mm_Socket" H 5600 2450 50  0001 C CNN
-F 3 "" H 5600 2450 50  0001 C CNN
+F 3 "https://www.nxp.com/docs/en/data-sheet/LPC111X.pdf" H 5600 2450 50  0001 C CNN
 	1    5600 2450
 	1    0    0    1   
 $EndComp
